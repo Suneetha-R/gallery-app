@@ -1,0 +1,15 @@
+/* Write your code here. */
+.list-item {
+  margin: 5px;
+}
+.active-btn {
+  opacity: 0.5;
+}
+
+.btn {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  outline: none;
+  cursor: pointer;
+}

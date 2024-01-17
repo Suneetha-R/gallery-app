@@ -1,0 +1,32 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.discription {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 24%;
+}
+.img {
+  text-align: center;
+  height: 300px;
+  width: 600px;
+  margin: auto;
+}
+.nature-pera {
+  color: #64748b;
+}
+
+.thumbnail-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
